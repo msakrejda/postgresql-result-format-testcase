@@ -1,0 +1,10 @@
+Test program which illustrates a potential issue in the PostgreSQL FEBE protocol.
+
+To build:
+
+ * javac org/postgresql/BadResultFormat.java
+
+To run:
+
+ * java -cp src org.postgresql.BadResultFormat
+
